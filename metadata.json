@@ -1,0 +1,8 @@
+{
+  "name": "Ops Intelligence",
+  "description": "Personal IT Infrastructure Operations Command Centre, Reporting, and Knowledge Management System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
